@@ -1,0 +1,5 @@
+streamlit
+mne
+matplotlib
+numpy
+scipy
